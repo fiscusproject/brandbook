@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" style="color:#1a2846">
+<defs>
+<clipPath id="wv"><circle cx="120" cy="120" r="89"></circle></clipPath>
+<mask id="mm" maskUnits="userSpaceOnUse" x="0" y="0" width="240" height="240">
+<rect width="240" height="240" fill="black"></rect>
+<g clip-path="url(#wv)" transform="rotate(45 120 120)" fill="none">
+<path d="M20 74H220M20 120H220M20 166H220" stroke="white" stroke-width="34"></path>
+<path d="M20 74H220M20 120H220M20 166H220" stroke="black" stroke-width="26"></path>
+<path d="M74 20V220M120 20V220M166 20V220" stroke="white" stroke-width="34"></path>
+<path d="M74 20V220M120 20V220M166 20V220" stroke="black" stroke-width="26"></path>
+<path d="M53 74H95M145 74H187M99 120H141M53 166H95M145 166H187" stroke="white" stroke-width="34"></path>
+<path d="M46 74H102M138 74H194M92 120H148M46 166H102M138 166H194" stroke="black" stroke-width="26"></path>
+</g>
+<circle cx="120" cy="120" r="91" fill="none" stroke="white" stroke-width="4"></circle>
+<circle cx="120" cy="120" r="110" fill="none" stroke="white" stroke-width="8"></circle>
+</mask>
+</defs>
+<rect width="240" height="240" fill="currentColor" mask="url(#mm)"></rect>
+</svg>
