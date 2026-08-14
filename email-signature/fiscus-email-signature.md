@@ -3,5 +3,5 @@
 **John Doe**\
 Maintainer · Fiscus\
 [john@fiscusproject.eu](mailto:john@fiscusproject.eu)\
-[GitHub](https://github.com/fiscusproject) · [Docs](https://fiscusproject.eu)\
+[GitHub](https://github.com/fiscusproject) · [Codeberg](https://codeberg.org/fiscus) · [Web](https://fiscusproject.eu)\
 *Free and open-source fiscalization*
