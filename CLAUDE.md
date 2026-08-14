@@ -36,6 +36,7 @@ rasterization) — **not** plain ImageMagick on SVGs (fills white, worse rendere
 
 ```bash
 rsvg-convert -w 500  logo/fiscus-mark.svg           -o logo/fiscus-avatar-500-transparent.png
+rsvg-convert -w 144  logo/fiscus-mark.svg           -o logo/fiscus-mark-144.png   # email signature, 72px @2x
 rsvg-convert -w 1812 lockup/fiscus-lockup-light.svg -o lockup/fiscus-lockup-light-3x.png   # ×3 of 604×140; same for -dark
 rsvg-convert banner/fiscus-readme-1280x320-light.svg -o banner/fiscus-readme-1280x320-light.png  # native size; same for -dark, social
 rsvg-convert -w 16 logo/favicon.svg -o logo/favicon-16.png   # and -w 32
