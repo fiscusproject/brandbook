@@ -35,8 +35,7 @@ The weave is enclosed in a double ring of navy and gold — the form of an **off
 stamp**. That is the other half of what fiscalization *is*: every receipt in Croatia carries
 its JIR, every Slovenian invoice its EOR, every Spanish one its QR — a state-issued mark of
 authenticity, the modern descendant of wax and *Stempelmarken*. Fiscus applies that stamp on
-your behalf, from your own infrastructure. A seal made from a basket: the treasury and the
-proof of payment in one figure.
+your behalf. A seal made from a basket: the treasury and the proof of payment in one figure.
 
 ## Palette
 
@@ -63,6 +62,7 @@ docs and materials, pair with a neutral sans (Inter or IBM Plex Sans).
 |---|---|
 | `logo/fiscus-mark.svg` | **Master mark.** Source of truth — everything derives from this |
 | `logo/fiscus-avatar-500-transparent.png` | GitHub organization avatar (transparent background; renders as a circle — the seal is built for it) |
+| `logo/fiscus-mark-144.png` | Email signature image — displayed at 72px (2× for retina), hotlinked by the signature template |
 | `logo/favicon.svg` / `favicon.ico` / `favicon-16/32.png` | Docs site favicons |
 | `lockup/fiscus-lockup-light.svg` / `-dark.svg` (+ `-3x.png`) | Docs navbar, README header — pick per background via `<picture>` + `prefers-color-scheme` |
 | `banner/fiscus-readme-1280x320-light/-dark.*` | README hero banner (light/dark pair) |
@@ -70,6 +70,8 @@ docs and materials, pair with a neutral sans (Inter or IBM Plex Sans).
 | `banner/fiscus-social-1280x640.png` | GitHub repo **social preview** (Settings → Social preview) and og:image |
 | `banner/fiscus-social-tagline-1280x640.png` | Social preview / og:image with the tagline |
 | `monochrome-mark/fiscus-mark-mono.svg` | Single-color contexts: terminal banners, stickers, badges, engraving |
+| `email-signature/fiscus-email-signature.html` | Email signature template — paste into your mail client's signature editor as HTML, then replace the name, role, and address |
+| `email-signature/fiscus-email-signature.md` | Markdown rendition of the signature for forum profiles, GitHub Discussions, and other Markdown contexts |
 
 ## Usage rules
 
