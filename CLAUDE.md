@@ -2,7 +2,7 @@
 
 Public brand-asset repository for **Fiscus** (open-source, self-hosted fiscalization
 service). Three documents split the roles: `README.md` is the human-facing brandbook
-(story, palette, typography, usage rules), `TRADEMARK.md` is the binding usage policy,
+(story, palette, typography, asset map), `TRADEMARK.md` is the binding usage policy,
 and `../fiscus-context.md` — one level **above** this repo, not tracked in it — is the
 full project context. Read that context doc before making any brand-level decision;
 naming and logo-concept alternatives were researched and decided there. **One project,
