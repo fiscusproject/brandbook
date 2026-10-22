@@ -88,4 +88,13 @@ docs and materials, pair with a neutral sans (Inter or IBM Plex Sans).
 
 ## AI Policy
 
-The assets and documents in this repository were produced with AI assistance. All design decisions were made by the project maintainers, every artifact was human-reviewed, and the maintainers remain accountable for the accuracy and originality of the work.
+On October 22, 2026, we decided to fully align with the NLnet Foundation's AI policy requirements. From this date forward, AI will not be used to produce, edit, or manage any assets in this
+repository.
+
+[NLNet Foundation AI Policy Version 2.0](https://nlnet.nl/foundation/policies/generativeAI/2.0/)
+
+### AI Policy Disclaimer
+
+The assets and documents in this repository prior to October 22 were produced with AI assistance.
+All design decisions were made by the project maintainers, every artifact was human-reviewed, and 
+the maintainers remain accountable for the accuracy and originality of the work.
