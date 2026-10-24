@@ -88,7 +88,7 @@ docs and materials, pair with a neutral sans (Inter or IBM Plex Sans).
 
 ## AI Policy
 
-On October 22, 2026, we decided to fully align with the NLnet Foundation's AI policy requirements. From this date forward, AI will not be used to produce, edit, or manage any assets in this
+On October 22, 2026, we decided to fully align with the NLnet Foundation's AI policy requirements. From this date forward, AI will not be used to produce or edit any assets in this
 repository.
 
 [NLNet Foundation AI Policy Version 2.0](https://nlnet.nl/foundation/policies/generativeAI/2.0/)
